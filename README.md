@@ -36,4 +36,33 @@ flutter pub get
 
 # Run the app
 flutter run
+```
+Make sure the backend is running before launching the app.
 
+## 💻 Backend – Spring Boot
+
+### Requirements
+
+- Java 17+
+- Spring Boot
+- Gradle (or Maven)
+- IDE (IntelliJ / Eclipse / VS Code)
+
+### How To Run
+
+```bash
+
+# Navigate to the backend directory
+cd backend/
+
+# Start the backend
+./gradlew bootRun
+
+```
+Server will start on:
+http://localhost:8080
+
+## ✍️ Author
+Josh Tony Klement
+Final Year CSE Student
+GitHub: @tony-0312
