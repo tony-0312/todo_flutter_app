@@ -37,4 +37,3 @@ flutter pub get
 # Run the app
 flutter run
 
-Make sure the backend is running before launching the app.
